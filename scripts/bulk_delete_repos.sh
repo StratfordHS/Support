@@ -3,7 +3,8 @@
 # Create an authorization token at GitHub.com and replace TOKEN with your token.
 # Usage:
 # ./bulk_delete_repos.py filename.txt
-# filename.txt is a list of repo names to delete, one per line (example: lab-00-hello-world-username)
+# filename.txt is a list of repo names to delete, one per line (example: StratfordHS-APCS/lab-00-hello-world-username)
+# Use get_repo_list_from_org.sh to create the list
 
 while read i
 do 
