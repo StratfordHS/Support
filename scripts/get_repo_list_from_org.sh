@@ -8,8 +8,8 @@
 # Usage:
 # ./get_repo_list_from_org.sh StratfordHS-APCS
 
-USERNAME="daveavis"
-TOKEN="d7edb9738e743ed4e61991293693f9a54d1ed13d"
+USERNAME=""
+TOKEN=""
 ORG=$1
 
 curl -u $USERNAME:$TOKEN -s "https://api.github.com/orgs/$ORG/repos?per_page=100&type=all" | ./jq-win64.exe -r '.[].full_name'
