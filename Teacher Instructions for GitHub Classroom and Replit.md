@@ -160,14 +160,13 @@ Tests are automatically run every time you *Commit and Push*.  It can take a cou
 
 **GitHub is trying to install Repl.it, but it is already installed so you can't click the save button.**
 * **Possible simpler method.  Try this first and report success or failure.**
-* Log out of Repl.
-* Login to Repl using GitHub (click on the cat silhouette).
-* Go back to your repo and click the Work in Repl.it button.
-
+  * Log out of Repl.
+  * Login to Repl using GitHub (click on the cat silhouette).
+  * Go back to your repo and click the Work in Repl.it button.
 * **This works, but the above option is simpler, if it works reliably.  Still testing.**
-* On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
-* Go back to your repo and click the Work in Repl.it button.
-* Click what you need to to install Repl.it again.
+  * On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
+  * Go back to your repo and click the Work in Repl.it button.
+  * Click what you need to to install Repl.it again.
 
 **Students click "Work on Repl.it" button, but when Repl.it loads there are no files or files are missing.**
 * Go back to their repo and click the button again.  It may take a few tries, but it will work.
@@ -176,6 +175,12 @@ Tests are automatically run every time you *Commit and Push*.  It can take a cou
 * Go to the repository settings and delete the repository.
 * Click on the assignment link again and re-accept the assignment.
 * Don't forget to click the "update" button.
+* If that doesn't work
+   * The teacher needs to add the missing files manually via upload
+   * Have the student click the "update" link
+   * The student needs to go to Repl.it and delete any Repls for this lab.
+   * The student then can go back to their repo and click the Work in Repl.it button and it should work.
+
 
 ### Help Forum ###
 
