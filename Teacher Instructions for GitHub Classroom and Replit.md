@@ -159,12 +159,17 @@ Tests are automatically run every time you *Commit and Push*.  It can take a cou
 * Check the repo.  Usually the update worked.  Check for the presence of the `.github` folder and the black "Work in Repl.it" button in the `README.md`. 
 
 **GitHub is trying to install Repl.it, but it is already installed so you can't click the save button.**
-    * On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
-    * Go back to your repo and click the Work in Repl.it button.
-    * Click what you need to to install Repl.it again.
+* On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
+* Go back to your repo and click the Work in Repl.it button.
+* Click what you need to to install Repl.it again.
 
 **Students click "Work on Repl.it" button, but when Repl.it loads there are no files or files are missing.**
 * Go back to their repo and click the button again.  It may take a few tries, but it will work.
+
+**Students accept the assignment, but files are missing from the repository.**
+* Go to the repository settings and delete the repository.
+* Click on the assignment link again and re-accept the assignment.
+* Don't forget to click the "update" button.
 
 ### Help Forum ###
 
