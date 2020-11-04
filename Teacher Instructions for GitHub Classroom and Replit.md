@@ -159,6 +159,12 @@ Tests are automatically run every time you *Commit and Push*.  It can take a cou
 * Check the repo.  Usually the update worked.  Check for the presence of the `.github` folder and the black "Work in Repl.it" button in the `README.md`. 
 
 **GitHub is trying to install Repl.it, but it is already installed so you can't click the save button.**
+* **Possible simpler method.  Try this first and report success or failure.**
+* Log out of Repl.
+* Login to Repl using GitHub (click on the cat silhouette).
+* Go back to your repo and click the Work in Repl.it button.
+
+* **This works, but the above option is simpler, if it works reliably.  Still testing.**
 * On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
 * Go back to your repo and click the Work in Repl.it button.
 * Click what you need to to install Repl.it again.
