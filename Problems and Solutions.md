@@ -2,10 +2,18 @@
 
 These are some problems we have come across along with the best known solutions.
 
+**Students cannot run their REPL, or the tests do not run on GitHub**
+* The student did not click the "update" link.
+* The student should commit and push any changes from REPL to GitHub.
+* The student needs to delete their REPL.
+* Go back to It'sLearning and click the assignment acceptance link.
+* Click the "update" link below the link to their repo and wait for it to silently finish.
+* Go to their repo and click the "Work on Repl.it" button.
+
 **Students cannot import their repo on Repl.it, or are constantly prompted to upgrade to the hacker plan to import private repos.**
 * Have the student log out of repl.it.
 * Have the student login to repl.it using GitHub (the cat silhouette)
-* Now they should be able to go back to their repo, click the Work in Repl.it button and it should work.
+* Now they should be able to go back to their repo, click the "Work in Repl.it" button and it should work.
 	
 **Student's repl says it is ahead and/or behind in commits on the Version Control tab.**
 * copy and paste your code into a text file
@@ -22,10 +30,10 @@ These are some problems we have come across along with the best known solutions.
 * **Possible simpler method.  Try this first and report success or failure.**
   * Log out of Repl.
   * Login to Repl using GitHub (click on the cat silhouette).
-  * Go back to your repo and click the Work in Repl.it button.
+  * Go back to your repo and click the "Work in Repl.it" button.
 * **This works, but the above option is simpler, if it works reliably.  Still testing.**
   * On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
-  * Go back to your repo and click the Work in Repl.it button.
+  * Go back to your repo and click the "Work in Repl.it" button.
   * Click what you need to to install Repl.it again.
 
 **Students click "Work on Repl.it" button, but when Repl.it loads there are no files or files are missing.**
@@ -39,7 +47,7 @@ These are some problems we have come across along with the best known solutions.
    * The teacher needs to add the missing files manually via upload
    * Have the student click the "update" link
    * The student needs to go to Repl.it and delete any Repls for this lab.
-   * The student then can go back to their repo and click the Work in Repl.it button and it should work.
+   * The student then can go back to their repo and click the "Work in Repl.it" button and it should work.
 
 **Students attempt to Commmit and Push, but nothing happens.**
 * Likely cause is a lockfile from a failed Commit and Push.
