@@ -48,7 +48,7 @@ To edit on REPL.it:
 4. Select "Import from GitHub"
 5. Paste your repo's address, and select the repo it finds.
 6. Click "Import from GitHub".
-7. Select the language and run command as follows: (Note: if this step is skipped you will have to create a .replit file with the Language and Run Command lines in it.)
+7. *(Optional: The .replit file will be created when you configure the assignment.  If you don't do this step then students will not be able to run their code if they didn't click the "update" link.  This is a good way to make sure they click the link.)* Select the language and run command as follows: 
     * For Python: 	
         * Language = Python
         * Run Command = `python main.py`
