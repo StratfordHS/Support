@@ -147,5 +147,5 @@ https://education.github.community/c/github-classroom/14
 
 ### Using Uploaded .jar Files ###
 * Put the `.jar` files in the `./jars` directory.
-* Set the run command to be `run = "export CLASSPATH=\".:./jars/*\"; javac -d . *.java; java Main"`
+* Set the run command to be `run = "export CLASSPATH=.:./jars/*; javac -d . *.java; java Main"`
 
