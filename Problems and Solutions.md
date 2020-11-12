@@ -27,14 +27,9 @@ These are some problems we have come across along with the best known solutions.
 * Check the repo.  Usually the update worked.  Check for the presence of the `.github` folder and the black "Work in Repl.it" button in the `README.md`. 
 
 **GitHub is trying to install Repl.it, but it is already installed so you can't click the save button.**
-* **Possible simpler method.  Try this first and report success or failure.**
-  * Log out of Repl.
-  * Login to Repl using GitHub (click on the cat silhouette).
-  * Go back to your repo and click the "Work in Repl.it" button.
-* **This works, but the above option is simpler, if it works reliably.  Still testing.**
-  * On the page where you can't click the save button, scroll down to the "Danger Zone" and click "Uninstall Repl.it".
-  * Go back to your repo and click the "Work in Repl.it" button.
-  * Click what you need to to install Repl.it again.
+* Log out of Repl.
+* Login to Repl using GitHub (click on the cat silhouette).
+* Go back to your repo and click the "Work in Repl.it" button.
 
 **Students click "Work on Repl.it" button, but when Repl.it loads there are no files or files are missing.**
 * Go back to their repo and click the button again.  It may take a few tries, but it will work.
