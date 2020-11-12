@@ -2,13 +2,13 @@
 
 These are some problems we have come across along with the best known solutions.
 
-**Students cannot run their REPL, or the tests do not run on GitHub**
-* The student did not click the "update" link.
-* The student should commit and push any changes from REPL to GitHub.
-* The student needs to delete their REPL.
-* Go back to It'sLearning and click the assignment acceptance link.
-* Click the "update" link below the link to their repo and wait for it to silently finish.
-* Go to their repo and click the "Work on Repl.it" button.
+**Students cannot run their REPL, the tests do not run on GitHub, or REPL says "Cannot find main.sh"**
+* Cause: The student did not click the "update" link.
+* Commit and push any changes from REPL to GitHub.
+* Delete the REPL.
+* Go back to It'sLearning and click the assignment link.
+* Click the "update" link below the link to the repo and wait for it to silently finish.
+* Go to the repo and click the "Work on Repl.it" button.
 
 **Students cannot import their repo on Repl.it, or are constantly prompted to upgrade to the hacker plan to import private repos.**
 * Have the student log out of repl.it.
