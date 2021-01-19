@@ -111,6 +111,7 @@ You have 4 options for tests.  Three of the options are under Input/Output tests
 **Python code:**
 * Setup command `sudo -H pip3 install pytest`
 * Run command `pytest`
+* Running a single test `pytest -k "test_method_name"`
 * https://github.com/education/autograding-example-python
 
 **Java code:**
